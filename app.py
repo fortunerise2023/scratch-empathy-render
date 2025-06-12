@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Scratch Empathy Project", layout="wide")
 
 # === Cover ===
-st.image("https://upload.wikimedia.org/wikipedia/commons/2/20/Scratch_cat.svg", width=100)
+st.image("https://cdn.jsdelivr.net/gh/fortunerise2023/scratch-assets/scratch-icon.png", width=100)
 st.title("Scratch Empathy Project")
 st.markdown("### Inclusive Coding Education for Neurodiverse Learners")
 
